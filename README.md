@@ -5,11 +5,13 @@
 - 🔍 I focus on delivering key outcomes, building amazing teams and adapting to new information.
 - 📫 Connect with me on [Linkedin](https://www.linkedin.com/in/robert-w-brown).
 
-![Rob Brown's Github stats](https://github-readme-stats.vercel.app/api?username=robert-will-brown&show_icons=true)
+
+![SmittyRunSuccessLoop](https://user-images.githubusercontent.com/7024743/147937876-e541cae7-2ca7-44cf-b00b-2fa2ee2dd604.gif) 
 
 
 <!--
 **robert-will-brown/robert-will-brown** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Rob Brown's Github stats](https://github-readme-stats.vercel.app/api?username=robert-will-brown&show_icons=true)
 
 Here are some ideas to get you started:
 
