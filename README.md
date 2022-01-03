@@ -1,4 +1,12 @@
-### Hi there 👋
+
+![Unknown](https://user-images.githubusercontent.com/7024743/147933462-5cd72c12-a238-41a6-8f3a-4590285e0e63.png)
+- 🔭 I'm the CTO for [Ostmodern](https://ostmodern.co.uk) and [Skylark](https://www.skylarkplatform.com).
+- 🏗 I design, build and run modern technology stacks that solve complex customer problems.
+- 🔍 I focus on delivering key outcomes, building amazing teams and adapting to new information.
+- 📫 Connect with me on [Linkedin](https://www.linkedin.com/in/robert-w-brown).
+
+![Rob Brown's Github stats](https://github-readme-stats.vercel.app/api?username=robert-will-brown&show_icons=true)
+
 
 <!--
 **robert-will-brown/robert-will-brown** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
