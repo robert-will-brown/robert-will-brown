@@ -5,9 +5,9 @@
 - 🔍 I focus on delivering key outcomes, building amazing teams and adapting to new information.
 - 📫 Connect with me on [Linkedin](https://www.linkedin.com/in/robert-w-brown).
 
-
+<!--
 ![SmittyRunSuccessLoop](https://user-images.githubusercontent.com/7024743/147937876-e541cae7-2ca7-44cf-b00b-2fa2ee2dd604.gif) 
-
+-->
 
 <!--
 **robert-will-brown/robert-will-brown** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
