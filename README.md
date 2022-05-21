@@ -2,7 +2,7 @@
 ![Unknown](https://user-images.githubusercontent.com/7024743/147933462-5cd72c12-a238-41a6-8f3a-4590285e0e63.png)
 - 🔭 I'm the CTO for [Ostmodern](https://ostmodern.co.uk) and [Skylark](https://www.skylarkplatform.com).
 - 🏗 I design, build and run modern technology stacks that solve complex customer problems.
-- 📫 Connect with me on [My GitHub Pages](https://robert-will-brown.github.io).
+- 📫 Have a look at the projects I've been involved in at [my GitHub Pages](https://robert-will-brown.github.io).
 
 <!--
 ![SmittyRunSuccessLoop](https://user-images.githubusercontent.com/7024743/147937876-e541cae7-2ca7-44cf-b00b-2fa2ee2dd604.gif) 
